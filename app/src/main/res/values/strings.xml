@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Behnaz6282669</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="add">ADD</string>
+    <string name="num_2">Num 2</string>
+    <string name="num_1">Num 1</string>
+    <string name="btnadd">ADD</string>
+    <string name="result">Result</string>
+    <string name="subtraction">SUBTRACTION</string>
+    <string name="multiplication">MULTIPLICATION</string>
+    <string name="divition">DIVITION</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subtraction_fragment">SUBTRACTION FRAGMENT</string>
+    <string name="subtract">SUBTRACT</string>
+    <string name="addition_fragment">ADDITION FRAGMENT</string>
+    <string name="multiplication_fragment">MULTIPLICATION FRAGMENT</string>
+    <string name="multiply">MULTIPLY</string>
+    <string name="division_fragment">DIVISION FRAGMENT</string>
+    <string name="divide">DIVIDE</string>
+    <string name="homepage_fragment">HOMEPAGE FRAGMENT</string>
+</resources>
